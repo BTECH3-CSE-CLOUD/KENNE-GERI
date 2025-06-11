@@ -1,4 +1,5 @@
 # KENNE-GERI
+# The project is found in the Master branch
 1) Project Setup
     Django project (restaurant_reservation) and app (reservations) created.
     Packages installed: Django, Django REST Framework.
